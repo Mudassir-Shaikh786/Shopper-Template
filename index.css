@@ -1,13 +1,13 @@
 .women-fashion {
-    background-image: url(../public/images/women-fasion.jpg);
+    background-image: url(https://www.instaloverz.com/wp-content/uploads/2016/07/9-modest-womens-fashion.jpg);
     background-size: cover;
 }
 .men-fashion {
-    background-image: url(../public/images/men-fasion.jpg);
+    background-image: url(https://www.instaloverz.com/wp-content/uploads/2017/07/21-Clothes-For-Tall-Skinny-Men.jpg);
     background-size: cover;
 }
 .kids-fashion {
-    background-image: url(../public/images/kids-fasion.jpg);
+    background-image: url(https://www.instaloverz.com/wp-content/uploads/2019/06/Eid-Pajamas-For-Kids-696x957.jpg);
     background-size: cover;
 }
 .content {
@@ -25,7 +25,7 @@ main {
     right: -10px;
 }
 .bags {
-    background-image: url(../public/images/b1.jpg);
+    background-image: url(https://www.instaloverz.com/wp-content/uploads/2018/09/7-Shoulder-Bag-Outfit.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -37,15 +37,15 @@ main {
     height: 400px;
 }
 .men-dress {
-    background-image: url(../public/images/b2.jpg);
+    background-image: url(https://www.instaloverz.com/wp-content/uploads/2017/07/13-Casual-Outfit-For-Men-2017-683x1024.jpg);
     background-size: cover;
 }
 .women-dress {
-    background-image: url(../public/images/b3.jpg);
+    background-image: url(https://www.instaloverz.com/wp-content/uploads/2017/04/Asos-Funnel-Neck-Dress.jpg);
     background-size: cover;
 }
 .shirts {
-    background-image: url(../public/images/b4.jpg);
+    background-image: url(https://www.instaloverz.com/wp-content/uploads/2017/04/Funnel-Neck-Dress-Pattern.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -83,7 +83,7 @@ main {
     transform: translateX(10px);
 }
 .sandal {
-    background-image: url(../public/images/b-5.jpg);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5qyXiieeaFQCrleTvWp0_zsa1zA65t9kSOWj8yqYII22nv7yCeA7rdQU&s=10);
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -108,11 +108,11 @@ main {
     transition: 0.5s;
 }
 .sandal:hover {
-    background-image: url(../public/images/b5.1.jpg);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9eBThvevSEf5WdflWasQGUM7kPL2Y9t7ZCrBAUR-pTy70tjCpFEistzc&s=10);
     background-size: cover;
 }
 .printed-dress {
-    background-image: url(../public/images/b6.png);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSbvLaluuhi7mNBooGa973uQbx4OeDxCNZgQv0wkuq01q9DrYYw3Q6_wA&s=10);
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -121,11 +121,11 @@ main {
     overflow: hidden;
 }
 .printed-dress:hover {
-    background-image: url(../public/images/b6.1.jpg);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_QX_kjjCLNQmRD_TiWnPNxNRu6EKAK8wZyw&s);
     background-size: cover;
 }
 .shoe {
-    background-image: url(../public/images/b7.png);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpxtLxkCfAqfViZreiFtnJFI3fkFijiFoH9Q&s);
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -134,7 +134,7 @@ main {
     overflow: hidden;
 }
 .shoe:hover {
-    background-image: url(../public/images/b7.1.jpg);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg7QxruvlKx_iiN62dV2iDjdoEdkZsqhBoIfjW52V1w7qDhc8ynUXBBS0&s=10);
     background-size: cover;
 }
 .shoe:hover .fav-icons {
@@ -150,7 +150,7 @@ main {
     transform: translateY(-40px);
 }
 .women-cloths {
-    background-image: url(../public/images/b8.1.jpg);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRifFPUjUkL9MpVu5x2a2D0FcYH8lsIQUgggg1SZ5LmpkC8CANElV2haBw&s=10);
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -159,7 +159,7 @@ main {
     overflow: hidden;
 }
 .women-cloths:hover {
-    background-image: url(../public/images/b8.png);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr22nNYwlZsOSTELooVznpP9jmmQomB7HJZQ&s);
     background-size: cover;
 }
 
@@ -179,7 +179,7 @@ main {
     color:white;
 }
 .dresses {
-    background-image: url(../public/images/printed-dress.jpg);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmB5eWqO-_yg254eanFK3gGNswzdeWm464XXtGUs3T4w&s);
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -188,11 +188,11 @@ main {
     overflow: hidden;
 }
 .dresses:hover {
-    background-image: url(../public/images/printed-dress-2.jpg);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTyZh2zIWoliANYQVN-y85OjoS9rBhbiJTEw&s);
     background-size: cover;
 }
 .body-bag {
-    background-image: url(../public/images/b10.png);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKqC3ZrASsBs_dy426smsnLSh-6Kijdn7AVw&s);
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -201,11 +201,11 @@ main {
     overflow: hidden;
 }
 .body-bag:hover {
-    background-image: url(../public/images/10.1.jpg);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC-wyqGdqGJSIHFHU4uHDsnJUPOiz2taBBB0u5b3m1A-X4ZPin8y8OXQ4q&s=10);
     background-size:cover;
 }
 .skirts {
-    background-image: url(../public/images/skirts.jpg);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZF0d9VsQfvCFWI5gGxRfb3HwNpDmV0-PotRbSe0v0DQwZpm1rquEo98Y&s=10);
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -214,11 +214,11 @@ main {
     overflow: hidden;
 }
 .skirts:hover {
-    background-image: url(../public/images/b11.png);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR77WFligIbAjDuoZC1c_fnYwHuQaFyjqQdsVTU1w7JxJVlCAksP2yhDiE&s=10);
     background-size: cover;
 }
 .heel-sandals {
-    background-image: url(../public/images/b12.png);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs0YJKfhxISSNf20EREkud5j5AgrCKVd9KMg&s);
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -227,7 +227,7 @@ main {
     overflow: hidden;
 }
 .heel-sandals:hover {
-    background-image: url(../public/images/woman-shoes.jpg);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWCYH6IEkSM-MPZyso7tORNzFRCJdH3hBca4vGGIA8o77vC25p_zumfp8&s=10);
     background-size: cover;
 }
 .body-bag:hover .fav-icons {
